@@ -171,4 +171,10 @@ $ git clone git://git.kernel.org/pub/scm/git/git.git
 
 ### Книги и полезные ссылки по изучению git.
 
+* [книга "Pro Git"](https://git-scm.com/book/ru/v2)
+
+* [4 полезные книги для изучения git](https://tproger.ru/books/4-books-about-vcs/)
+
+* [руководство по git](https://ymatuhin.ru/front-end/git_guidelines_in_russian/)
+
 ### Альтернативные системы контроля версий.
